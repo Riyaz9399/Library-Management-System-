@@ -1,0 +1,13 @@
+Sequence of compilation of java files to work properly with this project
+
+pkg_Book/Book.java
+pkg_Book/BookManager.java
+pkg_Exception/StudentNotFoundException.java
+pkg_Exception/BookNotFoundException.java
+pkg_person/Person.java 
+pkg_person/Student.java
+pkg_person/StudentManager.java
+pkg_person/Liberian.java
+pkg_Transaction/BookTransaction.java
+pkg_Transaction/BookTransactionManager.java
+MAIN_pack/MAIN.java
